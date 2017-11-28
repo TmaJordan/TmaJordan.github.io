@@ -13,9 +13,9 @@
    height="500"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
    sodipodi:docname="logo.svg"
-   inkscape:export-filename="\\vmware-host\Shared Folders\Desktop\logo32.png"
+   inkscape:export-filename="D:\econiq-node\Website\public\images\favicon96x96.png"
    inkscape:export-xdpi="5.7600002"
    inkscape:export-ydpi="5.7600002">
   <defs
@@ -28,14 +28,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.238"
-     inkscape:cx="123.99031"
+     inkscape:cx="-7.2697869"
      inkscape:cy="250"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1280"
-     inkscape:window-height="737"
-     inkscape:window-x="-8"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="3832"
      inkscape:window-y="-8"
      inkscape:window-maximized="1">
     <inkscape:grid
@@ -54,7 +54,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -71,7 +71,7 @@
        sodipodi:cy="250"
        sodipodi:rx="250"
        sodipodi:ry="250"
-       d="M 500,250 C 500,388.07119 388.07119,500 250,500 111.92881,500 0,388.07119 0,250 0,111.92881 111.92881,0 250,0 388.07119,0 500,111.92881 500,250 z"
+       d="M 500,250 A 250,250 0 0 1 250,500 250,250 0 0 1 0,250 250,250 0 0 1 250,0 250,250 0 0 1 500,250 Z"
        transform="translate(0,552.36218)" />
     <g
        style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#e7e0d7;fill-opacity:1;stroke:none;font-family:Gotham Rounded Medium;-inkscape-font-specification:Gotham Rounded Medium"
